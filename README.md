@@ -1,2 +1,3 @@
 # insurance
-simple 「mind map」of insurance. 简单的保险思维导图
+##「小帮规划」学习的保险知识总结.
+从小一保险小白到现在略知一二.
